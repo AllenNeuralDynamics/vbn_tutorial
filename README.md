@@ -1,3 +1,2 @@
-# aind-capsule-template
+# Tutorial on the Visual Behavior Neuropixels dataset for Cosyne 2026
 
-Basic structure of a capsule to be customized as needed.
